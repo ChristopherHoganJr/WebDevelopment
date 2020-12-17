@@ -1,0 +1,163 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin: 50px auto 0;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 5.625rem;
+  color: #4C8577;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #4E6E58;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #79B9AC;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+    line-height: 2;
+}
+
+hr {
+  border-style: dotted none none;
+  width: 4%;
+  border-color: #EAF6F6;
+  border-width: 10px;
+  margin: 100px auto;
+}
+
+a {
+  color: #A6ECE0;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.top-container {
+  background-color: #A6ECE0;
+  padding-top: 100px;
+  position: relative;
+  overflow-x: hidden;
+}
+
+.intro {
+  width: 50%;
+  margin: auto;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 10px auto;
+  text-align: left;
+  overflow: hidden;
+}
+
+.chris-profile {
+  max-width: 25%;
+  height: auto;
+}
+
+.bottom-container {
+  background-color: #544B3D;
+  padding: 50px 0 20px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 25%;
+  bottom: 30%;
+  max-width: 100%;
+  height: auto;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 25%;
+  top: 10%;
+  max-width: 100%;
+  height: auto;
+}
+
+.mountain-img {
+  max-width: 100%;
+  height: auto;
+}
+
+.python {
+  width: 25%;
+  float: left;
+  margin-right: 10%;
+}
+
+/* Clears 'float' and puts text under image
+.python-skill-description {
+  clear: left;
+}
+
+.web-dev-skill-description {
+  clear: right;
+}
+*/
+
+.web-dev {
+  width: 25%;
+  float: right;
+  margin-left: 10%;
+}
+
+.contact-sub {
+  width: 80%;
+  margin: auto;
+}
+
+.contact-message {
+  width: 50%;
+  margin: 40px auto;
+}
+
+.btn {
+  background:linear-gradient(to bottom, #639F92 5%, #79B9AC 100%);
+	background-color:#4C8577;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Montserrat', sans-serif;
+	font-size:20px;
+	padding:16px 31px;
+	text-decoration:none;
+}
+
+.btn:hover {
+  background:linear-gradient(to bottom, #79B9AC 5%, #639F92 100%);
+	background-color:#A6ECE0;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}

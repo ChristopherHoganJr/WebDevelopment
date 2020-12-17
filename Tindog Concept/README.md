@@ -1,8 +1,6 @@
 # tindog
 
-### [Github Pages Link](https://christopherhoganjr.github.io/tindog-bootstrap/)
-
-### Project can be found here
+## Project can be found here
 [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 
 ### Contribution
